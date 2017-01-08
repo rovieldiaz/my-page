@@ -1,3 +1,11 @@
- { 
-    background-color: #061119
+body { 
+    background-color: whitesmoke;
+}
+ 
+/*Section Hiding for JQuery*/
+section#bio, 
+section#projects, 
+section#contact, 
+section#resume {
+    display: none;
 }
